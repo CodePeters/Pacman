@@ -29,6 +29,6 @@ supposing Myboard.txt is the new game board that you added.
 
 **File gifs contains all the icons if pacman and ghoasts used in the game.**
 
-## License
+## _License_
 
 This project is licensed under the GPLv3 License - see the [LICENSE](LICENSE) file for details
