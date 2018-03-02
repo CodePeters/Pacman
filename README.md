@@ -11,7 +11,7 @@ _**Compililation:**_
 
       java Pacman
 
-**File Game-boards contains three game-boards but you could add new ass well just make sure to include them in Pacman.java file**
+**File Game-boards contains three game-boards but you could add new as well just make sure to include them in Pacman.java file**
 **by adding lines:**
 
       GameBoards.add(new filereader("./game-boards/Myboard.txt").get()); 
