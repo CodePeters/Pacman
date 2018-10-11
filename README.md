@@ -27,7 +27,7 @@ GameBoards.add(new filereader("./game-boards/Myboard.txt").get());
 
 supposing Myboard.txt is the new game board that you added.
 
-**File gifs contains all the icons if pacman and ghoasts used in the game.**
+**File gifs contains all the icons for pacman and ghoasts used in the game.**
 
 ## _License_
 
